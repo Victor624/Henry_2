@@ -1,4 +1,4 @@
-Moneda,Fecha,total_volumes
+Moneda,Fecha,prices
 binancecoin,2018-08-22,9.45
 binancecoin,2018-08-23,9.69
 binancecoin,2018-08-24,10.19
@@ -3053,4 +3053,4 @@ solana,2023-08-17,21.65
 solana,2023-08-18,21.33
 solana,2023-08-19,21.88
 solana,2023-08-20,21.75
-solana,2023-08-21,21.21
+solana,2023-08-21,21.26
