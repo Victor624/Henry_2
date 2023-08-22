@@ -1,4 +1,5 @@
 Moneda,Fecha,prices
+binancecoin,2018-08-22,9.45
 binancecoin,2018-08-23,9.69
 binancecoin,2018-08-24,10.19
 binancecoin,2018-08-25,10.12
@@ -1823,8 +1824,7 @@ binancecoin,2023-08-17,217.8
 binancecoin,2023-08-18,215.97
 binancecoin,2023-08-19,217.08
 binancecoin,2023-08-20,216.24
-binancecoin,2023-08-21,210.59
-binancecoin,2023-08-22,207.77
+binancecoin,2023-08-21,210.31
 solana,2020-04-10,0.96
 solana,2020-04-11,0.78
 solana,2020-04-12,0.88
@@ -3053,5 +3053,4 @@ solana,2023-08-17,21.65
 solana,2023-08-18,21.33
 solana,2023-08-19,21.88
 solana,2023-08-20,21.75
-solana,2023-08-21,21.2
-solana,2023-08-22,20.85
+solana,2023-08-21,21.26
