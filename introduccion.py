@@ -65,7 +65,7 @@ st.markdown("### Aca veremos como fueron capitalizadas las monedas a lo largo de
 
 st.markdown("***")
 
-Moneda_cap_hist=pd.read_csv("Moneda_cap_hist.csv")
+Moneda_cap_hist=pd.read_csv("../00 - DATA\Moneda_cap_hist.csv")
 Moneda_cap_hist['Fecha'] = pd.to_datetime(Moneda_cap_hist['Fecha'])
 
 fig2 = plt.figure(figsize=(12,6))
@@ -85,7 +85,7 @@ st.markdown("***")
 
 st.markdown("## Precio Historico de las Monedas.-")
 
-Precio_Total=pd.read_csv("Precio_Total.csv")
+Precio_Total=pd.read_csv("../00 - DATA\Precio_Total.csv")
 Precio_Total['Fecha'] = pd.to_datetime(Precio_Total['Fecha'])
 
 fig3 = plt.figure(figsize=(12,6))
@@ -105,7 +105,7 @@ st.markdown("***Aca observamos que el precio de la moneda estan completamente se
 st.markdown("**A continuacion se los detallo en 4 graficos distintos para que se vea la volatividad de cada grupo**")
 
 
-moneda_precio_alto=pd.read_csv("moneda_precio_alto.csv")
+moneda_precio_alto=pd.read_csv("../00 - DATA\moneda_precio_alto.csv")
 moneda_precio_alto['Fecha'] = pd.to_datetime(moneda_precio_alto['Fecha'])
 
 fig4 = plt.figure(figsize=(12,6))
@@ -123,7 +123,7 @@ st.markdown("El Bitcoin es una de las monedas de mayor precio y fluctuacion del 
 
 
 
-moneda_precio_medio=pd.read_csv("moneda_precio_medio.csv")
+moneda_precio_medio=pd.read_csv("../00 - DATA\moneda_precio_medio.csv")
 moneda_precio_medio['Fecha'] = pd.to_datetime(moneda_precio_medio['Fecha'])
 fig5 = plt.figure(figsize=(12,6))
 ax = sns.lineplot(x="Fecha", y="prices",
@@ -136,7 +136,7 @@ st.pyplot(fig5)
 
 st.markdown("Estas dos monedas extrechamente ligadas por ser una dependiente de una de otras oscilaron en un precio de 200 a 5000 dolares los ultimos 5 años.-")
 
-moneda_precio_Bajo=pd.read_csv("moneda_precio_Bajo.csv")
+moneda_precio_Bajo=pd.read_csv("../00 - DATA\moneda_precio_Bajo.csv")
 moneda_precio_Bajo['Fecha'] = pd.to_datetime(moneda_precio_Bajo['Fecha'])
 fig6 = plt.figure(figsize=(12,6))
 ax = sns.lineplot(x="Fecha", y="prices",
@@ -149,7 +149,7 @@ st.pyplot(fig6)
 
 st.markdown("Aca Observamos dos monedas que que oscilan entre 25 y 700 Dolares.-")
 
-moneda_precio_estable=pd.read_csv("moneda_precio_estable.csv")
+moneda_precio_estable=pd.read_csv("../00 - DATA\moneda_precio_estable.csv")
 moneda_precio_estable['Fecha'] = pd.to_datetime(moneda_precio_estable['Fecha'])
 fig7 = plt.figure(figsize=(12,6))
 
@@ -165,7 +165,7 @@ st.markdown("***")
 
 st.markdown("# Volumen")
 
-Volumen=pd.read_csv("volumen.csv")
+Volumen=pd.read_csv("../00 - DATA\volumen.csv")
 Volumen['Fecha'] = pd.to_datetime(Volumen['Fecha'])
 
 
@@ -186,7 +186,7 @@ st.markdown("***")
 
 st.markdown("# Exchange")
 
-Exchance=pd.read_csv("Exchange.csv")
+Exchance=pd.read_csv("../00 - DATA\Exchange.csv")
 
 fig9 = plt.figure(figsize=(12,6))
 ax=sns.barplot(x ='name', y ='trade_volume_24h_btc_normalized',data=Exchance)

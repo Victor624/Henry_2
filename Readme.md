@@ -19,26 +19,27 @@ Con el aumento del interés en el mercado de criptomonedas, cada vez más invers
 
 El análisis y la exploración de datos desempeñan un papel crucial en la obtención de información valiosa dentro del vasto conjunto de datos disponibles sobre criptomonedas. En este contexto, es clave el uso de una valiosa fuente de datos actualizados que proporcionen información sobre una amplia variedad de criptomonedas, incluidos precios, volúmenes de negociación, capitalización de mercado, información histórica y más.
 
-### **Que encontraras en el proyecto?**
 
-La idea cental del proyecto es retirar toda la informacion posible de CoinGeckoAPI, asi que toda informacion fue retirada por la API de ahi.-
+### **¿Qué encontraras en el proyecto?**
+
+La idea central del proyecto es retirar toda la información posible de CoinGeckoAPI, así que toda información fue retirada por la API de ahí. -
 
 **Encontraras la Carpeta 00 - DATA: En la Mismas se encuentran todos los CSV, con los que vamos a trabajar**
 
 
-***Aca se encuentran el volumen de movimientos de los ultimos 5 años de las exchanges***
+***Acá se encuentran el volumen de movimientos de los últimos 5 años de las Exchange***
 
 
 Exchange.csv
 
 
-***"Aca se encuentran los historicos de las monedas de mayor capitalizacion y el historico de los ultimos 5 años"***
+***"Acá se encuentran los históricos de las monedas de mayor capitalización y el histórico de los últimos 5 años"***
 
 mayor_cap.csv
 
 Moneda_cap_hist.csv
 
-***"Aca se encuentran los movimientos de precios  de los ultimos 5 años"***
+***"Acá se encuentran los movimientos de precios de los últimos 5 años"***
 
 Precio_Total.csv
 
@@ -51,7 +52,7 @@ moneda_precio_Bajo.csv
 moneda_precio_estable.csv
 
 
-***"Aca se encuentran los movimientos de volumen de los ultimos 5 años"***
+***"Acá se encuentran los movimientos de volumen de los últimos 5 años"***
 
 volumen.csv
 
@@ -60,25 +61,25 @@ volumen.csv
 
 
 
-**Encontraras la Carpeta 01 - ETL: En la Misma se encuentra un jupiter con las funciones y la extracion de la API de toda la informacion**
+**Encontraras la Carpeta 01 - ETL: En la Misma se encuentra un júpiter con las funciones y la extracción de la API de toda la información**
 
 --------------------------------------------------------------------------------------------------------------
 
 
-**Encontraras la Carpeta 02 - EDA: En la Misma se encuentra un jupiter con toda informacion extraida y en detalle de lo que encontre en la informacion recibida**
+**Encontraras la Carpeta 02 - EDA: En la Misma se encuentra un júpiter con toda información extraída y en detalle de lo que encontré en la información recibida**
 
 ---------------------------------------------------------------------------------------------------------------
 
-### **Que hacer con este proyecto?**
+### **¿Qué hacer con este proyecto?**
 
 ***¿Qué es la capitalización del mercado (Market Cap) y por qué importa?***
 
-La capitalización del mercado es un indicador que mide y sigue el valor de mercado de una criptomoneda.
-La capitalización del mercado se utiliza como indicador del dominio y la popularidad de las criptomonedas.
+La capitalización del mercado es un indicador que mide y sigue el valor de mercado de una criptomoneda. La capitalización del mercado se utiliza como indicador del dominio y la popularidad de las criptomonedas.
+
 Aunque se trata de una métrica ampliamente utilizada, infórmate bien antes de tomar decisiones de trading
+La capitalización del mercado es un indicador que mide y sigue el valor de mercado de una criptomoneda. 
 
-
-La capitalización del mercado es un indicador que mide y sigue el valor de mercado de una criptomoneda. En general, cuanto más alta sea la capitalización del mercado de una criptomoneda, más dominante se considerará esta en el mismo. Por esta razón, la capitalización del mercado suele considerarse el indicador más importante a la hora de clasificar las criptomonedas.
+En general, cuanto más alta sea la capitalización del mercado de una criptomoneda, más dominante se considerará está en el mismo. Por esta razón, la capitalización del mercado suele considerarse el indicador más importante a la hora de clasificar las criptomonedas.
 
 
 ***¿Por qué varía tanto el precio de las criptomonedas?***
@@ -100,17 +101,19 @@ El volumen de intercambio de criptodivisas es una herramienta que utilizan los o
 
 ***¿Qué son los Exchanges y por que son importante a la hora de escojer uno?***
 
-El nombre de exchange de criptomonedas o intercambio de criptomonedas, hace mención a un espacio generalmente virtual, en el que se realizan acciones de compra-venta de criptomonedas.
+El nombre de Exchange de criptomonedas o intercambio de criptomonedas, hace mención a un espacio generalmente virtual, en el que se realizan acciones de compra-venta de criptomonedas.
 
-Muchos exchanges también permiten operar con acciones o cualquier otro tipo de título financiero aceptado por la comunidad que lo conforma. El fin de estos es sencillo: permitir al usuario o trader, participar en un mercado en el que puede obtener ganancias gracias a las variaciones de precio que se dan en el mismo. Todo gracias a que se opera con estos activos usando el valor libre de mercado asociado a cada uno.
+
+Muchos Exchange también permiten operar con acciones o cualquier otro tipo de título financiero aceptado por la comunidad que lo conforma. El fin de estos es sencillo: permitir al usuario o trader, participar en un mercado en el que puede obtener ganancias gracias a las variaciones de precio que se dan en el mismo. Todo gracias a que se opera con estos activos usando el valor libre de mercado asociado a cada uno.
+
 
 
 ----------------------------------------------------------------------------------------------------------------
 
-### Para que me serviria esta informacion?
+### ¿Para qué me serviría esta información?
 
 
-A la hora de volcarse a las criptomonedas encontraras toda informacion relevante y actualizada cada 5 minutos al estar conectada a una API que se actualiza en ese lapso de tiempo.-
+A la hora de volcarse a las criptomonedas encontraras toda información relevante y actualizada cada 5 minutos al estar conectada a una API que se actualiza en ese lapso de tiempo. -
 
 Podras saber: 
 * Que moneda tiene mas peso en el Mercado
