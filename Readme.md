@@ -121,4 +121,4 @@ Podras saber:
 * Cual es el mejor Exchange para resguardar mi capital de Criptomonedas
 
 
-<a href="https://victorvargas-introduccionpy.streamlit.app/" target="_blank">EDA(Analisis Exploratorio)</a>
+<a href="https://vargasvictorcriptomonedas.streamlit.app/" target="_blank">EDA(Analisis Exploratorio)</a>
