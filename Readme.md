@@ -119,3 +119,6 @@ Podras saber:
 * Que moneda tiene mas peso en el Mercado
 * Cual maneja mayor volumen
 * Cual es el mejor Exchange para resguardar mi capital de Criptomonedas
+
+
+<a href="https://victorvargas-introduccionpy.streamlit.app/" target="_blank">EDA(Analisis Exploratorio)</a>
