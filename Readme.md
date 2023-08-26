@@ -121,4 +121,19 @@ Podras saber:
 * Cual es el mejor Exchange para resguardar mi capital de Criptomonedas
 
 
+### Los KPI
+
+* ROI
+
+El ROI es la sigla en inglés de “Return On Investment”, cuya traducción al español es “retorno de la inversión”. Se trata de una de las principales métricas que se utilizan a día de hoy para calcular la rentabilidad de algunas inversiones, como una campaña o acción concreta. Y es que, hasta la aparición de este tipo de indicadores, los resultados eran poco objetivos y certeros.
+
+
+*  Índice de Fuerza Relativa (RSI)
+
+Una interpretación tradicional del RSI dice que por encima de 70 un activo está sobrecomprado, mientras que por debajo de 30 está sobrevendido. Así, los valores extremos podrían indicar un inminente cambio de tendencia o "pullback". Aún así, sería mejor no considerar estos valores como señales directas de compra o venta.
+
+* Media Móvil (MA)
+
+Una media móvil suaviza la acción del precio al filtrar el "ruido" del mercado y resaltar la dirección de la tendencia. Dado que se basa en datos del precio pasados, se considera un indicador atrasado.
+
 <a href="https://vargasvictorcriptomonedas.streamlit.app/" target="_blank">EDA(Analisis Exploratorio)</a>
