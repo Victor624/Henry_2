@@ -121,7 +121,7 @@ Podras saber:
 * Cual es el mejor Exchange para resguardar mi capital de Criptomonedas
 
 
-### Los KPI
+### KPI
 
 * ROI
 
@@ -135,5 +135,12 @@ Una interpretaci처n tradicional del RSI dice que por encima de 70 un activo est�
 * Media M처vil (MA)
 
 Una media m처vil suaviza la acci처n del precio al filtrar el "ruido" del mercado y resaltar la direcci처n de la tendencia. Dado que se basa en datos del precio pasados, se considera un indicador atrasado.
+
+-----------------------------------------------------------------------------------------------------
+### EDA
+
+A continuacion les dejo un enlace del trabajo exploratorio que hice desde de la API de CoinGecko
+
+
 
 <a href="https://vargasvictorcriptomonedas.streamlit.app/" target="_blank">EDA(Analisis Exploratorio)</a>
